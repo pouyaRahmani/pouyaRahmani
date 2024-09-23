@@ -1,3 +1,4 @@
+![MasterHead](./assets/header.gif)
 <h1 align="center">Hi 👋, I'm Pouya</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="coding" width="400px" src="./assets/Gif1.gif">
