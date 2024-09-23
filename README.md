@@ -40,9 +40,9 @@
 <h2 align="left">Languages and Tools:</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,bootstrap,html,css,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,c,java,mysql,matlab,kali,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,wordpress,idea,pycharm,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=js,react,vite,bootstrap,html,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,c,java,mysql,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,vscode,wordpress,idea,pycharm,vim,kali,linux" />
 </div>
 <br>
 
