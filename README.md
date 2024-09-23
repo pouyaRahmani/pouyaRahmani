@@ -49,8 +49,9 @@
 <div >
     <h2>Stats:</h2> 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyarahmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=pouyarahmani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pouyarahmani&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyarahmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=pouyarahmani&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pouyaRahmani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
 </div>
 </div>
