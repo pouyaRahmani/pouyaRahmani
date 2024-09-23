@@ -29,7 +29,7 @@
   </a>
 </div>
 <br>
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pouya_r8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pouya_r8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/coming soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" /></a>
@@ -46,9 +46,11 @@
 </div>
 <br>
 
+<div >
+    <h2>Stats:</h2> 
 <div align="center">
-    <h2 align="center">⚡Stats⚡</h2> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyarahmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyarahmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=pouyarahmani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pouyarahmani&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 </div>
