@@ -1,4 +1,5 @@
 ![MasterHead](./assets/header.gif)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pouya+Rahmani!;" />
 </h1>
@@ -45,6 +46,14 @@
     <img src="https://skillicons.dev/icons?i=github,vscode,wordpress,idea,pycharm,vim,kali,linux" />
 </div>
 <br>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+ ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  
+  <br/><br/><br/>
+</div>
 
 <div >
     <h2>Stats:</h2> 
