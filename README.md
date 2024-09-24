@@ -37,7 +37,7 @@
 <a href="https://fb.com/pouya.r8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pouya.r8" height="30" width="40" /></a>
 <a href="https://instagram.com/pouya.r8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pouya.r8" height="30" width="40" /></a>
 </p>
-
+<br/>
 <h2 align="left">Languages and Tools:</h2>
 
 <div align="center">
@@ -47,12 +47,12 @@
 </div>
 <br>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="left">
+  <h2> My Contributions: </h2>
   <br>
-
-<img alt="github contribution snake animation" src="https://github.com/pouyaRahmani/pouyaRahmani/blob/output/github-contribution-grid-snake.svg">  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pouyarahmani/pouyarahmani/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
 </div>
 
 <div >
