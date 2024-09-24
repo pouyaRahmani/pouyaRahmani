@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js and MongoDB**
 
-- 👨‍💻 All of my portfolio is available at [https://pouyarahmani.github.io/Introduction/](https://pouyarahmani.github.io/Introduction/)
+- 👨‍💻 My portfolio is available at [https://pouyarahmani.github.io/Introduction/](https://pouyarahmani.github.io/Introduction/)
 
 - 💬 Ask me about **React and JavaScript**
 
